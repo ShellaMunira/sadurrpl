@@ -1,0 +1,13 @@
+Nim : 1811500022
+Nama : Shella Munira
+Kelompok : TI6A
+
+Hasil saya menyadur :
+1) Ada tugas untuk menyadur setiap pertemuan dan di taruh di github
+2) Buat kelompok presentasi sebanyak 3 orang mahasiswa /kelompok
+3) Untuk memulainya kita login dulu ke akun github yang sudah ada
+4) Selanjutnya kita bikin repository sesuai dengan yang sudah diperintahkan 
+5) Bikin folder untuk menambah file dengan nama saduran1 untuk pertrmuan 1 , saduran2 untuk pertemuan 2 dan seterusnya
+6) Kita juga bisa menambah file screenshoot yang kita inginkan 
+7) Jika sudah selesai menyadur kirim URL github ke Dosen pengampu matakuliah
+8) Begitupula untuk pertemuan selanjutnya
