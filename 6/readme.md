@@ -1,3 +1,3 @@
-Nim : 1811500022 <br>
-Nama : Shella Munira <br>
+Nim      : 1811500022 <br>
+Nama     : Shella Munira <br>
 Kelompok : TI6A <br>
